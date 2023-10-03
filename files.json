@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "filename": "alatoo2650c248cdfd39.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo2650c248cdfd39.yaml",
+            "created_at": "2023-09-21T11:10:04.000000Z",
+            "updated_at": "2023-09-21T11:10:49.000000Z",
+            "site_id": 1
+        },
+        {
+            "id": 2,
+            "filename": "alatoo2650c24d87331a.yaml",
+            "status": "Создается",
+            "download_link": "/download/alatoo2650c24d87331a.yaml",
+            "created_at": "2023-09-21T11:11:20.000000Z",
+            "updated_at": "2023-09-21T11:11:20.000000Z",
+            "site_id": 1
+        },
+        {
+            "id": 3,
+            "filename": "alatoo2650c2fad0bfe1.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo2650c2fad0bfe1.yaml",
+            "created_at": "2023-09-21T11:57:33.000000Z",
+            "updated_at": "2023-09-21T12:45:46.000000Z",
+            "site_id": 1
+        },
+        {
+            "id": 4,
+            "filename": "alatoo2650c37abd52ec.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo2650c37abd52ec.yaml",
+            "created_at": "2023-09-21T12:31:39.000000Z",
+            "updated_at": "2023-09-21T13:05:12.000000Z",
+            "site_id": 1
+        },
+        {
+            "id": 5,
+            "filename": "alatoo365100d2be7c2a.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo365100d2be7c2a.yaml",
+            "created_at": "2023-09-24T10:19:23.000000Z",
+            "updated_at": "2023-09-24T11:06:57.000000Z",
+            "site_id": 2
+        },
+        {
+            "id": 6,
+            "filename": "alatoo3651022c1a7513.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo3651022c1a7513.yaml",
+            "created_at": "2023-09-24T11:51:29.000000Z",
+            "updated_at": "2023-09-24T12:29:04.000000Z",
+            "site_id": 2
+        },
+        {
+            "id": 7,
+            "filename": "alatoo365193c35d886f.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo365193c35d886f.yaml",
+            "created_at": "2023-10-01T09:30:29.000000Z",
+            "updated_at": "2023-10-01T10:45:57.000000Z",
+            "site_id": 2
+        },
+        {
+            "id": 8,
+            "filename": "alatoo365194e3845f63.yaml",
+            "status": "Завершен",
+            "download_link": "/download/alatoo365194e3845f63.yaml",
+            "created_at": "2023-10-01T10:47:20.000000Z",
+            "updated_at": "2023-10-01T11:33:41.000000Z",
+            "site_id": 2
+        }
+    ]
+}

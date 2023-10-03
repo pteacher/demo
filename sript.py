@@ -5,7 +5,8 @@ import json
 import yaml
 import git
 
-URL = "http://185.68.22.253/download/mrartur0074githubio64fdc95c69c9f.yaml"
+# URL = "http://185.68.22.253/download/mrartur0074githubio64fdc95c69c9f.yaml"
+URL = "http://185.68.22.253/api/v1/files"
 file_name = os.path.basename(urlparse(URL).path)
 
 
